@@ -1,0 +1,14 @@
+name = "Comforts"
+filename = "comforts-quilt-6.3.4+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/FYC20xkF/comforts-quilt-6.3.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ceb001c348a165cfa93cc65171aff4bb0421bcb18d8b52412b0ee4f068b85bc448ec7d04257908188097017c4df6b4690f71adc2b0c51da970d03d4544699250"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "FYC20xkF"

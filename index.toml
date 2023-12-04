@@ -1,0 +1,191 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/arcanus-continuum.pw.toml"
+hash = "44a39e4754924c69e3e974e67d6c335f3277a323f9a2d19deefd0c155a18537b"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "15ecde6a16b3c1d6517f69fa898aceee03db679bb0a509f2c43b9073687c3145"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "0fb86e0a7c07bf15d005af48837b95e9dca179696268e04bf887c47740ffc96a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7113aeece129a29c3067670938249b9fa1917fcd1c0643d77e32dddd00496119"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "5e85afc63682051023ddc5f2a943ddfe3fa450eec68abf5cb0b1dcfc56765a1f"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "d812140dfa14eb59724c1494a793dd53bfc77249955d9d13581f62a7a9bd9a33"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "28befa7f1b3241bd114f363943a6557408b51deb75cc0a1651673e6e52b7b4d3"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "151b92d1b925f420d9d87373fbd40d3dea1dfd6742c30b2255c8c669003218fd"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "d02b0a2e61dbfa0b2995eb5d6b28568c5fac676d1866509a58da2926e44fd551"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators-fabric.pw.toml"
+hash = "396c4dd32df0d3a85ce5d00915e852fd1e45255bdccdc2dab4e9e0e8f9d9d277"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "71351bf7abca0a73fb571f826bd38ac603a687c981241878c1014f9859a942c5"
+metafile = true
+
+[[files]]
+file = "mods/create-origins.pw.toml"
+hash = "78c545a4b50ad4bbebf73011bff55d7e11ec63e59fd6dad6b81b50e87231f7a5"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "fd2910851a73f9468de21aaa1a9f79eb6a597b0054dd4b96fdb71cac8f782f3d"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "559fdb8f64f914e92d1c8185f33397ebbb45463199c942d4ec4e6d5b6fa731f5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f74d1035a89d22e9a5dbe130bcddc8e708d4a752f1e3c6f081f70fc3b2a2a31b"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "37ed665e7edeb55dff122d2e4ca4ba22459c8020a0fd5f395bb60fdce75d5bd3"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "4f0947810378a877bee3fdfb62d14ca3f08baff740435d109c730eceed59d8d4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "7c0bf21925cd52ef0b60c27d14326a0394a100c16d6f5d5ca7b6b4c1aebb28a4"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "f2ebeccfcb0d48206a3aac3b95d8e98a16b666ea8ba5d1c25830cd26f9e03b90"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "48a284a6a4b129d2670f4f91f18c19e0aa72a8b3a508fd37e0b4a4164d506f15"
+metafile = true
+
+[[files]]
+file = "mods/magic-origins.pw.toml"
+hash = "dbd80562f76c21ebd7eeef06beea84f21de51c8aa40a48919bf8b68d8e418649"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "5968f8b68749aa99b0f12d560f962e3210db7f9189b1204d444ea76688f2b8ea"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "f145880c1587458027a87618baed397c1305d2a146ac9834a665d480167a0da9"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "097f5fb7e9955194690d8b3fb72023e541e1f5e7f7096ded048e4e478768bf9f"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "fb63ebb98b911f37c669ec1fc7f2e4c1b78c64fc805bb6bde0ffb71e4ea92b96"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "36c5032f6158ea72593b54d902f251a5eb6d36910fdf46fa39afe848dd13701a"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5011e473b3f97b4007c0adc5a92532f6197bb7c689160e0186dbb87378f906d2"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "b39eda7283faa1d38fd6085acc0e94212dadec71edf2c59c16a5509951928b06"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "4f4e47b69c087a3b7454ed91e5d171ccd008e10489c396d6100dffa0641b61b1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "5493b29ebfa85448ca5063eeecf1811a01e5f5fc2f7d2dec51d339ba06a72a7c"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "fd24d10f3b24e2e086a7e88628e8f23acf54ba3e4c903eac6ef419cbba91a9a6"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "11380db7e6b6716d961f947a58654fb64d2bf74a015ff62e2c60b04c10e3463e"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "7677bf35a89d3f408f230e269892eb8fc20d38c8c5dacf13994af119c2f45908"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "42ad508e1efbd1e0fc4a2ae6a95627affccfed46285aaca47848288fa42969cd"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "76959bec92cd43242ba1cc02ccb6be7592a60da867472e8dc010a02a0bdd6d94"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "c4eb392d98af606f3a550dccd4ada423a3511f9f4792e2b27c506a9712cc0e3f"
+metafile = true

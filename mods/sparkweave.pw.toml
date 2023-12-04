@@ -1,0 +1,14 @@
+name = "Sparkweave Engine"
+filename = "sparkweave-0.3.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nf68xfAw/versions/Dby74e6I/sparkweave-0.3.2.jar"
+hash-format = "sha512"
+hash = "442f06a48da3fd599c81aabf67fdab216484e7ec59c6b392790ee5e230a6d719ae07ebbf230413bb4242a3a4fb39af53d0d823c0517f1be6fc98ccd492890b3f"
+
+[update]
+[update.modrinth]
+mod-id = "nf68xfAw"
+version = "Dby74e6I"
