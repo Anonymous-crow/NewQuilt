@@ -4,7 +4,7 @@ side = "both"
 
 [download]
 mode = "metadata:curseforge"
-url = ""
+url = "https://www.curseforge.com/minecraft/mc-mods/minihud/download/4623488"
 hash-format = "sha1"
 hash = "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
 
