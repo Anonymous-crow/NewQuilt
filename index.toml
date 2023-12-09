@@ -41,6 +41,11 @@ hash = "151b92d1b925f420d9d87373fbd40d3dea1dfd6742c30b2255c8c669003218fd"
 metafile = true
 
 [[files]]
+file = "mods/crafting-enchanted-golden-apple.pw.toml"
+hash = "3fe5dd76a66fc0ce3651fb8b8d8215740c1182887f13ffb531541e71ea1a313c"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "d02b0a2e61dbfa0b2995eb5d6b28568c5fac676d1866509a58da2926e44fd551"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5493b29ebfa85448ca5063eeecf1811a01e5f5fc2f7d2dec51d339ba06a72a7c"
+hash = "943de04068a5cf0657bc0dc6255223556d8a374e3c0c6087b59d3246ea7aa052"
 metafile = true
 
 [[files]]
