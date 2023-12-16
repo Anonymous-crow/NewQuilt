@@ -11,11 +11,6 @@ hash = "15ecde6a16b3c1d6517f69fa898aceee03db679bb0a509f2c43b9073687c3145"
 metafile = true
 
 [[files]]
-file = "mods/axes-are-weapons.pw.toml"
-hash = "9672d7081cb8bfaae7c640c2b93b12ee05de9e907b73d21954a5be6a655fd806"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
@@ -33,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "d812140dfa14eb59724c1494a793dd53bfc77249955d9d13581f62a7a9bd9a33"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "31fdd1e2499f295c5806bac01987129f54c0960fdee8dfba5123ac6432bc8f9b"
 metafile = true
 
 [[files]]

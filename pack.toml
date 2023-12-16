@@ -1,12 +1,12 @@
 name = "Newquilt"
 author = "comradeCrow"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4ad8143f82c2ec0e5ce915b6331fcdce2fbe1388cfbbd163869e071f7bce1658"
+hash = "9416238b27de972a8b2204db275869356eec72f3194c0a572828512158d3c2df"
 
 [versions]
 minecraft = "1.20.1"
