@@ -1,0 +1,13 @@
+name = "Customizable Elytra"
+filename = "customizableelytra-quilt-2.1.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L25fOeGq/versions/NvuX8t88/customizableelytra-quilt-2.1.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "72be79291b8e46899f4d47a0a5d0119a974c1244"
+
+[update]
+[update.modrinth]
+mod-id = "L25fOeGq"
+version = "NvuX8t88"

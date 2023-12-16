@@ -11,8 +11,13 @@ hash = "15ecde6a16b3c1d6517f69fa898aceee03db679bb0a509f2c43b9073687c3145"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "9672d7081cb8bfaae7c640c2b93b12ee05de9e907b73d21954a5be6a655fd806"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
-hash = "0fb86e0a7c07bf15d005af48837b95e9dca179696268e04bf887c47740ffc96a"
+hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "d812140dfa14eb59724c1494a793dd53bfc77249955d9d13581f62a7a9bd9a33"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "31fdd1e2499f295c5806bac01987129f54c0960fdee8dfba5123ac6432bc8f9b"
 metafile = true
 
 [[files]]
@@ -76,8 +86,28 @@ hash = "559fdb8f64f914e92d1c8185f33397ebbb45463199c942d4ec4e6d5b6fa731f5"
 metafile = true
 
 [[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "1c12f5025ec5a2d0fdccc0211ebfb6bfedf6a3629eaa732a07ec83489f366168"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "4e2e4014bc2fd65512ea067da78d83a3f2935f47acc019c2e40adc3d2569af22"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "96e0f7aa0596ac7290dc5b26a9ef85e91bdf6c5c5c1a609997e3d362db7e2c10"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f74d1035a89d22e9a5dbe130bcddc8e708d4a752f1e3c6f081f70fc3b2a2a31b"
+metafile = true
+
+[[files]]
+file = "mods/gildedarmor.pw.toml"
+hash = "f82560dcaa602c7ba947edf1a8cb4c454b0e8dc026f8b28bc3137fff7c1f1eda"
 metafile = true
 
 [[files]]
@@ -161,8 +191,13 @@ hash = "4f4e47b69c087a3b7454ed91e5d171ccd008e10489c396d6100dffa0641b61b1"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "943de04068a5cf0657bc0dc6255223556d8a374e3c0c6087b59d3246ea7aa052"
+hash = "24d8b70396df9d97e4f8b0365004cf068226a47d80f523971ac3d7b9115ebaf1"
 metafile = true
 
 [[files]]
@@ -186,11 +221,21 @@ hash = "4669cf415ee2da839f71743b4246085403965af4d7d18a5c22bd5203a2e4a8b8"
 metafile = true
 
 [[files]]
+file = "mods/wakes.pw.toml"
+hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
-hash = "76959bec92cd43242ba1cc02ccb6be7592a60da867472e8dc010a02a0bdd6d94"
+hash = "6a39c7d9d4235cd6ea040585a35a196e9c11e30e2a255e53aaea4ed510e94805"
 metafile = true
 
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "c4eb392d98af606f3a550dccd4ada423a3511f9f4792e2b27c506a9712cc0e3f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true

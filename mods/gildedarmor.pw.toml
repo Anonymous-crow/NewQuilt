@@ -1,0 +1,13 @@
+name = "Gilded Armor"
+filename = "gildedarmor-1.8.0+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8W2LklBN/versions/IxVkf6Kp/gildedarmor-1.8.0%2Bfabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "6c90d4312d165fcef5b9a1efd4aea09bc194b9d5"
+
+[update]
+[update.modrinth]
+mod-id = "8W2LklBN"
+version = "IxVkf6Kp"
