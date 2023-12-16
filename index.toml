@@ -116,13 +116,23 @@ hash = "37ed665e7edeb55dff122d2e4ca4ba22459c8020a0fd5f395bb60fdce75d5bd3"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "98ed1aac14903965348411be3dd5380680cb4a9917f0497f955f1e51100d4b89"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "4f0947810378a877bee3fdfb62d14ca3f08baff740435d109c730eceed59d8d4"
+hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "7c0bf21925cd52ef0b60c27d14326a0394a100c16d6f5d5ca7b6b4c1aebb28a4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
