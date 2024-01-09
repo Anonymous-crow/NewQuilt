@@ -6,6 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "e68382cb8065919026b47090491bab92be13ee78"
 mode = "metadata:curseforge"
+url = "https://www.curseforge.com/minecraft/mc-mods/malilib/download/4723020"
 
 [update]
 [update.curseforge]

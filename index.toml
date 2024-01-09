@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "abc3b92dccd2e787b56780ddf5e2a1b4e7b7822c96ed129f4f2174faf5b5a941"
+hash = "d96f9a8dbfc7973f9ca7c9fd6237766fd7e50799d64f24781011ad9500923c59"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "8e00296445109e75257d2ed7ec364282fdfc7c6b1860e0fa3d69d0c1d17b3324"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "d02b0a2e61dbfa0b2995eb5d6b28568c5fac676d1866509a58da2926e44fd551"
+hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
 metafile = true
 
 [[files]]
@@ -82,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "4e2e4014bc2fd65512ea067da78d83a3f2935f47acc019c2e40adc3d2569af22"
+hash = "963099225c0452ef9446bb2c4c65df417283f165f899cd751e018592963c18be"
 metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "8ffa48a28100824507af558fce0be2e8703fc7b1a0548ecac145a7962252af3f"
+hash = "883d09969b404851b1b9bb50df54563f79fc67437b15d1881b7449b08ee2def1"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "a3e37e211fbff12f8af2bb9519eef9fa6ce9a35b52fc77724272777aa1fbd840"
+hash = "6fc4eaeec615200a38ce3026cce2216b978958bbc4782ed5eea020299f81db40"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
+hash = "dac4b32c1a45235e746cff1b4a7560016576871a99affcd88a9aa8c151aa3258"
 metafile = true
 
 [[files]]
@@ -207,22 +207,22 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "11380db7e6b6716d961f947a58654fb64d2bf74a015ff62e2c60b04c10e3463e"
+hash = "a50ffa391e27e4314e222789f320cc42397aff9d0c10473619e29cdf7ce49c89"
 metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "7677bf35a89d3f408f230e269892eb8fc20d38c8c5dacf13994af119c2f45908"
+hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "4669cf415ee2da839f71743b4246085403965af4d7d18a5c22bd5203a2e4a8b8"
+hash = "fede694df8fa9eff3c416f48687afafc87fd273bf4c12d469d85cc427905becb"
 metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "2cf67aa9e98992b421307028521683f244e5d0662fbb36818d21403e46a7da13"
+hash = "76b20c4a8f3b359691380f30eb2778b2dbba74592e396f99228084bd9dc8032d"
 metafile = true
 
 [[files]]

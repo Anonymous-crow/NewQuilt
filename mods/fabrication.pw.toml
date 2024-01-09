@@ -1,13 +1,14 @@
 name = "Fabrication"
-filename = "fabrication-3.4.6+1.20.jar"
+filename = "fabrication-3.4.9+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4f7699ab58a0d65702353cdd9df8e02811e8e644"
+hash = "9db88f6bd9af210a9a18f80c9510ddddb7d2f480"
 mode = "metadata:curseforge"
+url = "https://www.curseforge.com/minecraft/mc-mods/fabrication/download/5012236"
 
 [update]
 [update.curseforge]
-file-id = 4980373
+file-id = 5012236
 project-id = 414445
