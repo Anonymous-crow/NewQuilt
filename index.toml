@@ -21,6 +21,11 @@ hash = "7113aeece129a29c3067670938249b9fa1917fcd1c0643d77e32dddd00496119"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
 metafile = true
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dac4b32c1a45235e746cff1b4a7560016576871a99affcd88a9aa8c151aa3258"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "4f4e47b69c087a3b7454ed91e5d171ccd008e10489c396d6100dffa0641b61b1"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
 
 [[files]]
